@@ -236,8 +236,6 @@ http://sc11.spacialnet.com:80/stream/2554/
 http://23.92.66.93:8000/stream
 #EXTINF:-1,Radio Mizrahit FM (Israel) {128 kbps}
 http://www.rs.mizrahit.fm:7777/
-#EXTINF:-1,Jewish Radio Network
-http://23.92.66.93:8000/stream
 #EXTINF:-1,Unknown Jewish Radio
 http://sc11.spacialnet.com:80/stream/2554
 #EXTINF:-1,Jewish Music Stream
