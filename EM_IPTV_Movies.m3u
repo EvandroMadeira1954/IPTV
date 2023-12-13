@@ -1,119 +1,368 @@
 #EXTM3U
 #EXTM3U
-#EXTINF:0, Guia De Canais
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/15fa97a8a75cc210007c9041d-alt.m3u8
-#EXTINF:0, Pluto TV Adrenalina Freezone
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/161b790b985706b00072cb797-alt.m3u8
-#EXTINF:0, Pluto TV Cine Clássicos
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/15fa1612a669ba0000702017b-alt.m3u8
-#EXTINF:0, Pluto TV Cine Comédia
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/15f12101f0b12f00007844c7c-alt.m3u8
-#EXTINF:0, Pluto TV Cine Comédia Romântica
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/162545ed3dab4380007582f7c-alt.m3u8
-#EXTINF:0, Pluto TV Cine Crime
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/16479ff764f5ba5000878dfe2-alt.m3u8
-#EXTINF:0, Pluto TV Cine Drama
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/15f1210d14ae1f80007bafb1d-alt.m3u8
-#EXTINF:0, Pluto TV Cine Família
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/15f171f032cd22e0007f17f3d-alt.m3u8
-#EXTINF:0, Pluto TV Cine Inspiração
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/15fa991b1f09e020007e78626-alt.m3u8
-#EXTINF:0, Pluto TV Cine Natal
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/15f8a11ce2a4559000782a583-alt.m3u8
-#EXTINF:0, Pluto TV Cine Romance
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/15f171f988ab9780007fa95ea-alt.m3u8
-#EXTINF:0, Pluto TV Cine Sucessos
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/15f120e94a5714d00074576a1-alt.m3u8
-#EXTINF:0, Pluto TV Cine Terror
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/15f12111c9e6c2c00078ef3bb-alt.m3u8
-#EXTINF:0, Pluto TV Ficção Científica
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/15fa15ad6367e170007cdd098-alt.m3u8
-#EXTINF:0, Pluto TV Filmelier
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/1633dcebd80386500074a2461-alt.m3u8
-#EXTINF:0, Pluto TV Filmes Ação
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/15f120f41b7d403000783a6d6-alt.m3u8
-#EXTINF:0, Pluto TV Filmes Nacionais
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/15f5a545d0dbf7f0007c09408-alt.m3u8
-#EXTINF:0, Pluto TV Retrô
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/15f1212ad1728050007a523b8-alt.m3u8
-#EXTINF:0, Pluto TV Séries
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/15f121262a189a800076b9386-alt.m3u8
-#EXTINF:0, Pluto TV Séries Ação
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/16474ab1da51cb80008bfb5f4-alt.m3u8
-#EXTINF:0, Pluto TV Séries Sci-Fi
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/163d2ba2f60bc8f0008981a0e-alt.m3u8
-#EXTINF:0, A Feiticeira
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/1631fa8dd7f25240007099a40-alt.m3u8
-#EXTINF:0, As Panteras
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/1648776bf536e0c0008b49aef-alt.m3u8
-#EXTINF:0, Barrados No Baile
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/163eb9cfbc111bc0008feda3b-alt.m3u8
-#EXTINF:0, BET Being Mary Jane
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/160a8126a0ac3970007f850fe-alt.m3u8
-#EXTINF:0, BET Pluto TV
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/15ff768b6a4c8b80008498610-alt.m3u8
-#EXTINF:0, CSI: Miami
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/163eb9c5351f5d000085e8d7e-alt.m3u8
-#EXTINF:0, Diff
-https://i.mjh.nz/PlutoTV/161f1d27a189ed10007b7393e-alt.m3u8
-#EXTINF:0, Filmes Suspense
-https://i.mjh.nz/PlutoTV/15f171d3442a0500007362f22-alt.m3u8
-#EXTINF:0, Inferno sobre Rodas
-https://i.mjh.nz/PlutoTV/164ff2c773efb5100082efb73-alt.m3u8
-#EXTINF:0, Jeannie é um Gênio
-https://i.mjh.nz/PlutoTV/16079c058aa05ac0007d10054-alt.m3u8
-#EXTINF:0, Starsky & Hutch - Justiça em Dobro
-https://i.mjh.nz/PlutoTV/16489c4a066e48500083ccf97-alt.m3u8
-#EXTINF:0, Louco por Você
-https://i.mjh.nz/PlutoTV/164877764dc7a760008a12799-alt.m3u8
-#EXTINF:0, MacGyver
-https://i.mjh.nz/PlutoTV/163eb9dc84e83e70008abea92-alt.m3u8
-#EXTINF:0, NCIS
-https://i.mjh.nz/PlutoTV/163eb9fdda995710008991c54-alt.m3u8
-#EXTINF:0, Nick Teen
-https://i.mjh.nz/PlutoTV/160f5fabf0721880007cd50e3-alt.m3u8
-#EXTINF:0, Nickelodeon iCarly
-https://i.mjh.nz/PlutoTV/1620ff46e0a576e0007dc2f89-alt.m3u8
-#EXTINF:0, Nickelodeon Pluto TV
-https://i.mjh.nz/PlutoTV/1645951c0e94c38000802d2cb-alt.m3u8
-#EXTINF:0, O Homem que veio do Céu
-https://i.mjh.nz/PlutoTV/162052d3b4eeb740007fbe125-alt.m3u8
-#EXTINF:0, Os Três Patetas
-https://i.mjh.nz/PlutoTV/15f1eed3c29b39600073e2ec0-alt.m3u8
-#EXTINF:0, Rookie Blue
-https://i.mjh.nz/PlutoTV/164ff2d8c6625510008c5a512-alt.m3u8
-#EXTINF:0, Runtime
-https://i.mjh.nz/PlutoTV/162c5d32e2c48f9000715b6e9-alt.m3u8
-#EXTINF:0, Schitt's Creek
-https://i.mjh.nz/PlutoTV/1620aca7a4d8ea4000778338a-alt.m3u8
-#EXTINF:0, The Night Shift Plantão Noturno
-https://i.mjh.nz/PlutoTV/1624f4e6bd5888f000754c53a-alt.m3u8
-#EXTINF:0, Younger
-https://i.mjh.nz/PlutoTV/1613fd0043ffa39000736bb2b-alt.m3u8
+#EXTINF:-1,'
+http://webradio.ofmydick.net
+#EXTINF:-1,'
+http://webradio.ofmycock.net
+#EXTINF:-1,'
+http://webradio.ofmycock.net
+#EXTINF:-1,'
+#EXTINF:-1,..........................................................................
+http://webradio.ofmycock.net
+#EXTINF:-1,      Radios From All Over The World (WebRadio Channels)
+http://webradio.ofmycock.net
+#EXTINF:-1,..........................................................................
+http://webradio.ofmycock.net
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",Sax4Ever (Saxophone Music) {192 kbps}
+http://185.33.21.112:80/sax4ever_128
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",POWERHITZ.COM - THE HITLIST!
+http://66.85.88.174:80/hitlist
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",UFMG Educativa 104.5 (Playlist)
+http://150.164.63.210:8000/playlist
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",UFMG Educativa 104.5 (Ao Vivo)
+http://150.164.63.210:8000/aovivo.mp3
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",Goldies Radio
+http://5.63.151.52:7064/stream
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",RADIO MINERVA
+http://92.222.209.104:80/minerva
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",Smooth Jazz Florida Worldwide
+http://144.217.158.59:5120/stream
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",Best Love (All-Time Romantic Songs)
+http://91.121.155.204:8097/stream
+
+#EXTINF:-1 media="true" group-title="WebRadio" tvg-logo=" ",Beatles Radio (60s, 70s, Oldies, Pop)
+http://64.40.99.76:8000
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",Smooth Jazz World Radio
+http://185.33.21.112:80/smoothjazz_mobile_mp3
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",POWERHITZ.COM - THE OFFICEMIX
+http://66.85.88.174:80/officemix
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",HITPARTY by PulsRadio (Channel 1)
+http://193.200.43.23:80/hitpartyHD.mp3
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",HITPARTY by PulsRadio (Channel 2)
+http://212.83.185.113:80/hitpartyHD.mp3
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",1.FM - Adore Jazz Radio
+http://185.33.21.112:80/ajazz_128
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",PulsRadio LOUNGE (Channel 1)
+http://193.200.43.23:80/relaxHD.mp3
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",PulsRadio LOUNGE (Channel 2)
+http://212.83.185.113:80/relaxHD.mp3
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",Radio Caroline (Pop Rock Classic Rock)
+http://78.129.202.200:8040
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",Ambient Sleeping Pill
+http://163.172.169.217:80/asp-h
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",ROCK RADIO
+http://163.172.169.217:80/asp-h
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",PulsRadio TRANCE (Channel 1)
+http://137.74.45.136:80/pulstranceHD.mp3
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",PulsRadio TRANCE (Channel 2)
+http://193.200.42.211:80/pulstranceHD.mp3
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",PulsRadio TRANCE (Channel 3)
+http://213.251.190.165:80/pulstranceHD.mp3
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",Radio Plus (France)
+http://s4.voscast.com:8432
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",POWERHITZ.COM - 1POWER (#1 For Hitz & Hip Hop)
+http://66.85.88.174:80/1power
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",Zoo Radio 90.8 FM (Hit music only) {192 kbps}
+http://s10.voscast.com:9940
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",HITRADIO CENTER (The Best 2k Hits!)
+http://212.30.80.195:8000/center
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",Best Smooth Jazz  - UK (London)
+http://64.95.243.43:8002/stream
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",Ultima FM (Pop & Classic Rock) (Channel 1)
+http://194.190.130.64:8001
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",Ultima FM (Pop & Classic Rock) (Channel 2)
+http://194.190.130.66:8001
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",PulsRadio DANCE (Channel 1)
+http://137.74.45.136:80/pulsHD.mp3
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",PulsRadio DANCE (Channel 2)
+http://193.200.42.211:80/pulsHD.mp3
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",PulsRadio DANCE (Channel 3)
+http://213.251.190.165:80/pulsHD.mp3
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",1.FM - Amsterdam Trance Radio
+http://185.33.21.112:80/atr_128
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",Antena1 - 94.7 FM (SP, Brazil)
+http://51.254.243.74:80/stream2
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",Antena1 - 94.7 FM (SP, Brazil)
+http://51.254.29.40:80/stream2
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",Antena1 - 94.7 FM (SP, Brazil)
+http://51.254.29.39:80/stream2
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",Antena1 - 94.7 FM (SP, Brazil)
+http://5.135.83.159:80/stream2
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",ELDORADO RADIO
+http://81.92.238.33:80
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",LED Jam Radio
+http://ledjamradio.ice.infomaniak.ch/ledjamradio.mp3
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",RTL Radio Letzebuerg
+http://81.92.238.32:80
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",VCR Auditorium | Venice Classic Radio
+http://5.135.173.165:80/stream1
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",VCR Live | Venice Classic Radio
+http://5.196.98.235:80/stream1
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",Venice Classic Radio Italia (Beautiful Classical Music)
+http://144.217.49.251:80/stream1
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",Jamendo Lounge (Instrumental Music)
+http://listen.radionomy.com:80/FelizFmPe
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",1.FM - Cafe Radio
+http://185.33.21.112:80/caferadio_128
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",WebRadio Oldenburg
+http://88.198.175.27:31200
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",The Greatest Rock Bands!
+http://208.110.65.254:8924/stream
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",Easy Rock Paradise
+http://107.170.166.187:8600
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",Radio Max Music - Greatest Hits
+http://192.99.83.154:8006/stream
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",FREQUENCE 3 - Une Rafale de Tubes sans pub!
+http://ice.stream.frequence3.net:80/frequence3-128.mp3
+
+#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",Colombia Pop Rock
+http://listen.radionomy.com/colombiapoprock
+#EXTINF:-1,'
+http://webradio.ofmydick.net
+#EXTINF:-1,'
+http://webradio.ofmydick.net
+#EXTINF:-1,'
+http://webradio.ofmydick.net
+#EXTINF:-1,'
+#EXTINF:-1,..........................................................................
+http://webradio.ofmydick.net
+#EXTINF:-1,                    AceRadio (20 WebRadio Channels)
+http://webradio.ofmydick.net
+#EXTINF:-1,..........................................................................
+http://webradio.ofmydick.net
+#EXTINF:-1,Poison - Every Rose Has It's Thorn  (AceRadio-The Classic Rock Channel)
+http://bigrradio.cdnstream1.com/5118_128
+#EXTINF:-1,Highly Suspect - 16 [Clean]  (AceRadio-The Hard Rock Channel)
+http://bigrradio.cdnstream1.com/5120_128
+#EXTINF:-1,The Cult - Sweet Soul Sister (Single Version)  (AceRadio-The Hair Band Channel)
+http://bigrradio.cdnstream1.com/5119_128
+#EXTINF:-1,Marcy Playground - Sex & Candy  (AceRadio-90s Alternative Rock)
+http://bigrradio.cdnstream1.com/5107_128
+#EXTINF:-1,Shaman's Harvest - The Devil In Our Wake  (AceRadio-The Super Rock Mix)
+http://bigrradio.cdnstream1.com/5126_128
+#EXTINF:-1,Billy Preston - Nothing From Nothing (AceRadio-The Super 70s Channel)
+http://bigrradio.cdnstream1.com/5125_128
+#EXTINF:-1,Will To Power - Fading Away (AceRadio-The Awesome 80s Channel)
+http://bigrradio.cdnstream1.com/5117_128
+#EXTINF:-1,Madonna - Live To Tell (AceRadio-The 80s Soft Channel)
+http://bigrradio.cdnstream1.com/5115_128
+#EXTINF:-1,'N Sync - (God Must Have Spent) A Little More Time On You (Remix)  (AceRadio-90s Pop Channel)
+http://bigrradio.cdnstream1.com/5108_128
+#EXTINF:-1,Tears For Fears - Everybody Wants To Rule The World  (AceRadio-The Soft Hits Channel)
+http://bigrradio.cdnstream1.com/5124_128
+#EXTINF:-1,twenty one pilots - Shy Away  (AceRadio-The Alternative Channel)
+http://bigrradio.cdnstream1.com/5116_128
+#EXTINF:-1,Grover Washington, Jr. - Soulful Strut (AceRadio-The Smooth Jazz Channel)
+http://bigrradio.cdnstream1.com/5123_128
+#EXTINF:-1,Lin Rountree - Pass The Groove (AceRadio-The Vocal Jazz Channel)
+http://bigrradio.cdnstream1.com/5127_128
+#EXTINF:-1,Tony! Toni! Tone! - Feels Good  (AceRadio-Todays R&B)
+http://bigrradio.cdnstream1.com/5128_128
+#EXTINF:-1,Travis Scott - HIGHEST IN THE ROOM [Clean]  (AceRadio-RnB Mix Channel)
+http://bigrradio.cdnstream1.com/5114_128
+#EXTINF:-1,Masked Wolf - Astronaut In The Ocean [Clean]  (AceRadio-The Hitz Channel)
+http://bigrradio.cdnstream1.com/5121_128
+#EXTINF:-1,Halsey - Bad At Love  (AceRadio-The Mix Channel)
+http://bigrradio.cdnstream1.com/5122_128
+#EXTINF:-1,Chris Young - I'm Comin' Over (AceRadio-CountryMix)
+http://bigrradio.cdnstream1.com/5111_128
+#EXTINF:-1,Travis Denning - After A Few (AceRadio-New Country)
+http://bigrradio.cdnstream1.com/5113_128
+#EXTINF:0,George Jones - I'm A One Woman Man (AceRadio-Country Gold)
+http://bigrradio.cdnstream1.com/5110_128
+#EXTINF:-1,'
+http://webradio.ofmydick.net
+#EXTINF:-1,'
+http://webradio.ofmydick.net
+#EXTINF:-1,'
+http://webradio.ofmydick.net
+#EXTINF:-1,..........................................................................
+http://webradio.ofmydick.net
+#EXTINF:-1,                  Hebrew WebRadios (From Israel)
+http://webradio.ofmydick.net
+#EXTINF:-1,..........................................................................
+http://webradio.ofmydick.net
+#EXTINF:-1,Jewish Rock Radio (Israeli Rock Music) {128 kbps}
+http://sc11.spacialnet.com:80/stream/2554/
+#EXTINF:-1,Jewish Radio Network (Jewish Music) {128 kbps}
+http://23.92.66.93:8000/stream
+#EXTINF:-1,Radio Mizrahit FM (Israel) {128 kbps}
+http://www.rs.mizrahit.fm:7777/
+#EXTINF:-1,Jewish Radio Network
+http://23.92.66.93:8000/stream
+#EXTINF:-1,Unknown Jewish Radio
+http://sc11.spacialnet.com:80/stream/2554
+#EXTINF:-1,Jewish Music Stream
+http://stream.jewishmusicstream.com:8000/stream
+#EXTINF:-1,Radio Mevaser Tov (Israel) {56 kbps}
+http://770tv.no-ip.org:7777/
+#EXTINF:-1,'
+http://webradio.ofmydick.net
+#EXTINF:-1,'
+http://webradio.ofmydick.net
+#EXTINF:-1,'
+http://webradio.ofmydick.net
+#EXTINF:-1,..........................................................................
+http://webradio.ofmydick.net
+#EXTINF:-1,                  Some More Radios (WebRadio Channels)
+http://webradio.ofmydick.net
+#EXTINF:-1,..........................................................................
+http://webradio.ofmydick.net
+#EXTINF:-1,RadioMaxMusic (Greatest Hits) Top 40, Pop Rock 
+http://192.99.83.154:8006/stream
+#EXTINF:-1,ROCK RADIO
+http://212.30.80.195:9034/rock
+#EXTINF:-1,Smooth Jazz Radio
+http://185.33.21.112:80/smoothjazz_mobile_mp3
+#EXTINF:-1,Radio Zeitz - normal ist anders...
+http://media.radio-zeitz.de:80/ice_stream.mp3
+#EXTINF:-1,Webradio Oldenburg (Misc)
+http://88.198.175.27:31200
+#EXTINF:-1,Music & Talk Radio (Stream)
+http://208.110.65.254:8924/stream
+#EXTINF:-1,Easy Rock Paradise
+http://107.170.166.187:8600
+#EXTINF:-1,Velvet 96.8 (Orchestra, Blues, Oldies)
+http://s10.voscast.com:9942
+#EXTINF:-1,1.FM - Amsterdam Trance Radio
+http://185.33.21.112:80/atr_128
+#EXTINF:-1,HITRADIO CENTER - Prvi v Sloveniji za hite
+http://212.30.80.195:8000/center
+#EXTINF:-1,RTN TV Radio (Gospel Music)
+http://stream.azimuthradio.com:9000/1
+#EXTINF:-1,THE BLAST Christian Rock HiFi @ 64 kbps
+http://theblast-stream.theblast.fm.fast-serv.com:80/64
+#EXTINF:-1,THE BLAST Christian Rock HiFi @ 128 kbps
+http://theblast-stream.theblast.fm.fast-serv.com:80/128
+#EXTINF:-1,1.FM Sax4Ever (192 kbps) Saxophone music!...
+http://185.33.21.112:80/sax4ever_128
+#EXTINF:-1,Radio Oldies Music
+http://5.63.151.52:7064/stream
+#EXTINF:-1,Beatles Radio (The Authentic Beatlemania!...) {128 kbps}
+http://64.40.99.76:8000
+#EXTINF:-1,Radio Caroline (www.RadioCaroline.co.uk) {Pop, Rock, Oldies}
+http://78.129.202.200:8040
+#EXTINF:-1,Mabu Beatz Radio (Minimal)
+http://audio.mabu-beatz-radio.com:8002/minimal
+#EXTINF:-1,Online Radio Stream {Vinyl} (Pop, Reggae, Dance, Electronic)
+http://luister.vinylteam.nl:8040/stream
+#EXTINF:-1,Vinyl Stacks Radio {128 kbps}
+http://cmvs.uncool.club:2121/vinyl-stacks
+#EXTINF:-1,Sound Of Vinyl (80's, House, Disco, R&B and Urban, Freestyle)
+http://queens11369v.softether.net:30016/djspinnercee128
+#EXTINF:-1,Radio Globus (Now's Pop Music!) {160 kbps}
+http://185.156.96.20:8000/radioglobus
+#EXTINF:-1,Smooth Jazz Florida Worldwide
+http://144.217.158.59:5120/stream
+#EXTINF:-1,Best Love (Romantic Songs) {128 kbps}
+http://91.121.155.204:8097/stream
+#EXTINF:-1,DEEP HOUSE LOUNGE (www.DeepHouseLounge.com)
+http://198.15.94.34:8024/stream
+#EXTINF:-1,HITPARTY (by PulsRadio) Channel 1 {192 kbps}
+http://193.200.43.23:80/hitpartyHD.mp3
+#EXTINF:-1,HITPARTY (by PulsRadio) Channel 2 {192 kbps}
+http://212.83.185.113:80/hitpartyHD.mp3
+#EXTINF:-1,LOUNGE (by PulsRadio) Channel 1 {192 kbps}
+http://193.200.43.23:80/relaxHD.mp3
+#EXTINF:-1,LOUNGE (by PulsRadio) Channel 2 {192 kbps}
+http://212.83.185.113:80/relaxHD.mp3
+#EXTINF:-1,TRANCE (by PulsRadio) Channel 1 {192 kbps}
+http://137.74.45.136:80/pulstranceHD.mp3
+#EXTINF:-1,TRANCE (by PulsRadio) Channel 2 {192 kbps}
+http://193.200.42.211:80/pulstranceHD.mp3
+#EXTINF:-1,TRANCE (by PulsRadio) Channel 3 {192 kbps}
+http://213.251.190.165:80/pulstranceHD.mp3
+#EXTINF:-1,Radio Plus (pop, rock, electronic, dance) {96 kbps}
+http://s4.voscast.com:8432
+#EXTINF:-1,POWERHITZ.COM - 1POWER - #1 For Hitz & Hip Hop
+http://66.85.88.174:80/1power
+#EXTINF:-1,LOUNGE-RADIO.COM (Swiss Made) {128 kbps}
+http://77.235.42.90:80
+#EXTINF:-1,Zoo Radio (Hit music only!...) {192 kbps}
+http://s10.voscast.com:9940
+#EXTINF:-1,The Best Smooth Jazz (UK, London) {128 kbps}
+http://64.95.243.43:8002/stream
+#EXTINF:-1,Ultima FM (Channel 1) {128 kbps}
+http://194.190.130.64:8001
+#EXTINF:-1,Ultima FM (Channel 2) {128 kbps}
+http://194.190.130.66:8001
+#EXTINF:-1,DANCE (by PulsRadio) Channel 1 {192 kbps}
+http://137.74.45.136:80/pulsHD.mp3
+#EXTINF:-1,DANCE (by PulsRadio) Channel 2 {192 kbps}
+http://193.200.42.211:80/pulsHD.mp3
+#EXTINF:-1,DANCE (by PulsRadio) Channel 3 {192 kbps}
+http://213.251.190.165:80/pulsHD.mp3
+#EXTINF:-1,Antena1 94.7 FM (SP, Brazil) Channel 1 {64 kbps}
+http://5.135.83.159:80/stream2
+#EXTINF:-1,Antena1 94.7 FM (SP, Brazil) Channel 2 {64 kbps}
+http://51.254.29.39:80/stream2
+#EXTINF:-1,Antena1 94.7 FM (SP, Brazil) Channel 3 {64 kbps}
+http://51.254.29.40:80/stream2
+#EXTINF:-1,Antena1 94.7 FM (SP, Brazil) Channel 4 {64 kbps}
+http://51.254.243.74:80/stream2
+#EXTINF:-1,ELDORADIO (Top 40) {256 kbps}
+http://81.92.238.33:80
+#EXTINF:-1,RTL Radio Letzebuerg (Rock & Pop) {256 kbps}
+http://81.92.238.32:80
+#EXTINF:-1,Led Jam Radio {128 kbps}
+http://ledjamradio.ice.infomaniak.ch/ledjamradio.mp3
+#EXTINF:-1,KYCN RADIO (AutoDJ Music) {160 kbps}
+http://149.56.175.167:5628/stream
+#EXTINF:-1,Cafe Radio (by 1.FM) {192 kbps}
+http://185.33.21.112:80/caferadio_128
+#EXTINF:-1,FREQUENCE 3 (Top 40, Dance, Pop, Rock) {128 kbps}
+http://ice.stream.frequence3.net:80/frequence3-128.mp3
+#EXTINF:-1,Colombia Pop Rock {128 kbps}
+http://listen.radionomy.com/colombiapoprock
+#EXTINF:-1,Classic Hits Radio {128 kbps}
+http://listen.radionomy.com/ClassicHitsRadio
+#EXTINF:-1,Radio Name
+http://webradio.ofmydick.net
