@@ -1,17 +1,23 @@
 #EXTM3U
+#EXTINF:0,Movie 000
+http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=bit.ly/2v16m9z
 #EXTINF:0,Movie 001
 http://tvpremiumhd.club/lista-gratuita/183009/on/lives.php?id=archive.org/download/utopia/Utopia_512kb.mp4
 #EXTINF:0,Movie 002
 http://tvpremiumhd.club/lista-gratuita/183009/on/lives.php?id=archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 #EXTINF:0,Movie 003
 http://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+#EXTINF:0,Movie 004
+http://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+#EXTINF:0,Movie 005
+http://archive.org/download/qwerty_202001/qwerty.mkv
 #EXTINF:-1,..........................................................................
-http://webradio.ofmycock.net
+http://MyCock.net/
 #EXTINF:-1,      Radios From All Over The World (WebRadio Channels)
-http://webradio.ofmycock.net
+http://tvpremiumhd.club/lista-gratuita/183009/on/lives.php?id=archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 #EXTINF:-1,..........................................................................
+http://MyCock.net/
 
-http://webradio.ofmycock.net
 #EXTINF:-1,Sax4Ever (Saxophone Music) {192 kbps}
 http://185.33.21.112:80/sax4ever_128
 
