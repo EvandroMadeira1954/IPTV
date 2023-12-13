@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U
 #EXTINF:0,'
 http://webradio.ofmydick.net
 #EXTINF:0,'
@@ -178,45 +177,45 @@ http://webradio.ofmydick.net
 http://webradio.ofmydick.net
 #EXTINF:-1,..........................................................................
 http://webradio.ofmydick.net
-#EXTINF:-1,Poison - Every Rose Has It's Thorn  (AceRadio-The Classic Rock Channel)
+#EXTINF:-1,AceRadio (The Classic Rock Channel)
 http://bigrradio.cdnstream1.com/5118_128
-#EXTINF:-1,Highly Suspect - 16 [Clean]  (AceRadio-The Hard Rock Channel)
+#EXTINF:-1,AceRadio (The Hard Rock Channel)
 http://bigrradio.cdnstream1.com/5120_128
-#EXTINF:-1,The Cult - Sweet Soul Sister (Single Version)  (AceRadio-The Hair Band Channel)
+#EXTINF:-1,AceRadio (The Hair Band Channel)
 http://bigrradio.cdnstream1.com/5119_128
-#EXTINF:-1,Marcy Playground - Sex & Candy  (AceRadio-90s Alternative Rock)
+#EXTINF:-1,AceRadio (90s Alternative Rock)
 http://bigrradio.cdnstream1.com/5107_128
-#EXTINF:-1,Shaman's Harvest - The Devil In Our Wake  (AceRadio-The Super Rock Mix)
+#EXTINF:-1,AceRadio (The Super Rock Mix)
 http://bigrradio.cdnstream1.com/5126_128
-#EXTINF:-1,Billy Preston - Nothing From Nothing (AceRadio-The Super 70s Channel)
+#EXTINF:-1,AceRadio (The Super 70s Channel)
 http://bigrradio.cdnstream1.com/5125_128
-#EXTINF:-1,Will To Power - Fading Away (AceRadio-The Awesome 80s Channel)
+#EXTINF:-1,AceRadio (The Awesome 80s Channel)
 http://bigrradio.cdnstream1.com/5117_128
-#EXTINF:-1,Madonna - Live To Tell (AceRadio-The 80s Soft Channel)
+#EXTINF:-1,AceRadio (The 80s Soft Channel)
 http://bigrradio.cdnstream1.com/5115_128
-#EXTINF:-1,'N Sync - (God Must Have Spent) A Little More Time On You (Remix)  (AceRadio-90s Pop Channel)
+#EXTINF:-1,AceRadio (90s Pop Channel)
 http://bigrradio.cdnstream1.com/5108_128
-#EXTINF:-1,Tears For Fears - Everybody Wants To Rule The World  (AceRadio-The Soft Hits Channel)
+#EXTINF:-1,AceRadio (The Soft Hits Channel)
 http://bigrradio.cdnstream1.com/5124_128
-#EXTINF:-1,twenty one pilots - Shy Away  (AceRadio-The Alternative Channel)
+#EXTINF:-1,AceRadio (The Alternative Channel)
 http://bigrradio.cdnstream1.com/5116_128
-#EXTINF:-1,Grover Washington, Jr. - Soulful Strut (AceRadio-The Smooth Jazz Channel)
+#EXTINF:-1,AceRadio (The Smooth Jazz Channel)
 http://bigrradio.cdnstream1.com/5123_128
-#EXTINF:-1,Lin Rountree - Pass The Groove (AceRadio-The Vocal Jazz Channel)
+#EXTINF:-1,AceRadio (The Vocal Jazz Channel)
 http://bigrradio.cdnstream1.com/5127_128
-#EXTINF:-1,Tony! Toni! Tone! - Feels Good  (AceRadio-Todays R&B)
+#EXTINF:-1,AceRadio (Today's R&B)
 http://bigrradio.cdnstream1.com/5128_128
-#EXTINF:-1,Travis Scott - HIGHEST IN THE ROOM [Clean]  (AceRadio-RnB Mix Channel)
+#EXTINF:-1,AceRadio (RnB Mix Channel)
 http://bigrradio.cdnstream1.com/5114_128
-#EXTINF:-1,Masked Wolf - Astronaut In The Ocean [Clean]  (AceRadio-The Hitz Channel)
+#EXTINF:-1,AceRadio (The Hitz Channel)
 http://bigrradio.cdnstream1.com/5121_128
-#EXTINF:-1,Halsey - Bad At Love  (AceRadio-The Mix Channel)
+#EXTINF:-1,AceRadio (The Mix Channel)
 http://bigrradio.cdnstream1.com/5122_128
-#EXTINF:-1,Chris Young - I'm Comin' Over (AceRadio-CountryMix)
+#EXTINF:-1,AceRadio (CountryMix)
 http://bigrradio.cdnstream1.com/5111_128
-#EXTINF:-1,Travis Denning - After A Few (AceRadio-New Country)
+#EXTINF:-1,AceRadio (New Country)
 http://bigrradio.cdnstream1.com/5113_128
-#EXTINF:0,George Jones - I'm A One Woman Man (AceRadio-Country Gold)
+#EXTINF:-1,AceRadio (Country Gold)
 http://bigrradio.cdnstream1.com/5110_128
 #EXTINF:-1,'
 http://webradio.ofmydick.net
@@ -236,11 +235,9 @@ http://sc11.spacialnet.com:80/stream/2554/
 http://23.92.66.93:8000/stream
 #EXTINF:-1,Radio Mizrahit FM (Israel) {128 kbps}
 http://www.rs.mizrahit.fm:7777/
-#EXTINF:-1,Jewish Radio Network
-http://23.92.66.93:8000/stream
-#EXTINF:-1,Unknown Jewish Radio
+#EXTINF:-1,Unknown Jewish Radio {128 kbps}
 http://sc11.spacialnet.com:80/stream/2554
-#EXTINF:-1,Jewish Music Stream
+#EXTINF:-1,Jewish Music Stream (Israel's Music) {128 kbps}
 http://stream.jewishmusicstream.com:8000/stream
 #EXTINF:-1,Radio Mevaser Tov (Israel) {56 kbps}
 http://770tv.no-ip.org:7777/
