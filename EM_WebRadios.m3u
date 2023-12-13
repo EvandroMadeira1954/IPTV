@@ -37,7 +37,7 @@ http://144.217.158.59:5120/stream
 #EXTINF:-1,Best Love (All-Time Romantic Songs)
 http://91.121.155.204:8097/stream
 
-#EXTINF:-1 media="true" group-title="WebRadio" tvg-logo=" ",Beatles Radio (60s, 70s, Oldies, Pop)
+#EXTINF:-1,Beatles Radio (60s, 70s, Oldies, Pop)
 http://64.40.99.76:8000
 
 #EXTINF:-1,Smooth Jazz World Radio
