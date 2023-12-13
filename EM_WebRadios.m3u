@@ -130,40 +130,40 @@ http://81.92.238.33:80
 #EXTINF:-1 media="true" group-title="..." tvg-logo=" ",LED Jam Radio
 http://ledjamradio.ice.infomaniak.ch/ledjamradio.mp3
 
-#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",RTL Radio Letzebuerg
+#EXTINF:-1,RTL Radio Letzebuerg
 http://81.92.238.32:80
 
-#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",VCR Auditorium | Venice Classic Radio
+#EXTINF:-1,VCR Auditorium | Venice Classic Radio
 http://5.135.173.165:80/stream1
 
-#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",VCR Live | Venice Classic Radio
+#EXTINF:-1,VCR Live | Venice Classic Radio
 http://5.196.98.235:80/stream1
 
-#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",Venice Classic Radio Italia (Beautiful Classical Music)
+#EXTINF:-1,Venice Classic Radio Italia (Beautiful Classical Music)
 http://144.217.49.251:80/stream1
 
-#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",Jamendo Lounge (Instrumental Music)
+#EXTINF:-1,Jamendo Lounge (Instrumental Music)
 http://listen.radionomy.com:80/FelizFmPe
 
-#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",1.FM - Cafe Radio
+#EXTINF:-1,1.FM - Cafe Radio
 http://185.33.21.112:80/caferadio_128
 
-#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",WebRadio Oldenburg
+#EXTINF:-1,WebRadio Oldenburg
 http://88.198.175.27:31200
 
-#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",The Greatest Rock Bands!
+#EXTINF:-1,The Greatest Rock Bands!
 http://208.110.65.254:8924/stream
 
-#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",Easy Rock Paradise
+#EXTINF:-1,Easy Rock Paradise
 http://107.170.166.187:8600
 
-#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",Radio Max Music - Greatest Hits
+#EXTINF:-1,Radio Max Music - Greatest Hits
 http://192.99.83.154:8006/stream
 
-#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",FREQUENCE 3 - Une Rafale de Tubes sans pub!
+#EXTINF:-1,FREQUENCE 3 - Une Rafale de Tubes sans pub!
 http://ice.stream.frequence3.net:80/frequence3-128.mp3
 
-#EXTINF:-1 media="true" group-title="..." tvg-logo=" ",Colombia Pop Rock
+#EXTINF:-1,Colombia Pop Rock
 http://listen.radionomy.com/colombiapoprock
 #EXTINF:-1,'
 http://webradio.ofmydick.net
@@ -198,7 +198,7 @@ http://bigrradio.cdnstream1.com/5115_128
 http://bigrradio.cdnstream1.com/5108_128
 #EXTINF:-1,Tears For Fears - Everybody Wants To Rule The World  (AceRadio-The Soft Hits Channel)
 http://bigrradio.cdnstream1.com/5124_128
-#EXTINF:-1,twenty one pilots - Shy Away  (AceRadio-The Alternative Channel)
+#EXTINF:-1,Twenty One Pilots - Shy Away  (AceRadio-The Alternative Channel)
 http://bigrradio.cdnstream1.com/5116_128
 #EXTINF:-1,Grover Washington, Jr. - Soulful Strut (AceRadio-The Smooth Jazz Channel)
 http://bigrradio.cdnstream1.com/5123_128
