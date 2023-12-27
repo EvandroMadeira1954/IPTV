@@ -1,22 +1,12 @@
 #EXTM3U
-#EXTINF:0,Movie 000
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=bit.ly/2v16m9z
-#EXTINF:0,Movie 001
-http://tvpremiumhd.club/lista-gratuita/183009/on/lives.php?id=archive.org/download/utopia/Utopia_512kb.mp4
-#EXTINF:0,Movie 002
-http://tvpremiumhd.club/lista-gratuita/183009/on/lives.php?id=archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
-#EXTINF:0,Movie 003
-http://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
-#EXTINF:0,Movie 004
-http://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
-#EXTINF:0,Movie 005
-http://archive.org/download/qwerty_202001/qwerty.mkv
-#EXTINF:-1,..........................................................................
-http://MyCock.net/
-#EXTINF:-1,      Radios From All Over The World (WebRadio Channels)
-http://tvpremiumhd.club/lista-gratuita/183009/on/lives.php?id=archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
-#EXTINF:-1,..........................................................................
-http://MyCock.net/
+# ?? WebRadios Added By Evandro Madeira
+
+#EXTINF:-1,--------------------------------
+http://www.ofmycock.com
+#EXTINF:-1,Worldwide Radio Stations
+http://www.ofherass.com
+#EXTINF:-1,--------------------------------
+http://www.ofmydick.com
 
 #EXTINF:-1,Sax4Ever (Saxophone Music) {192 kbps}
 http://185.33.21.112:80/sax4ever_128
@@ -30,6 +20,12 @@ http://150.164.63.210:8000/playlist
 #EXTINF:-1,UFMG Educativa 104.5 (Ao Vivo)
 http://150.164.63.210:8000/aovivo.mp3
 
+#EXTINF:-1,EM WebRadio (192 kbps)
+http://192.168.1.54:8080/EM-WebRadio.mp3
+
+#EXTINF:-1,EM WebTV (2200 kbps)
+http://192.168.1.54:8080/EM-WebTV.mp4
+
 #EXTINF:-1,Goldies Radio
 http://5.63.151.52:7064/stream
 
@@ -42,7 +38,7 @@ http://144.217.158.59:5120/stream
 #EXTINF:-1,Best Love (All-Time Romantic Songs)
 http://91.121.155.204:8097/stream
 
-#EXTINF:-1,Beatles Radio (60s, 70s, Oldies, Pop)
+#EXTINF:-1 media="true" group-title="WebRadio" tvg-logo=" ",Beatles Radio (60s, 70s, Oldies, Pop)
 http://64.40.99.76:8000
 
 #EXTINF:-1,Smooth Jazz World Radio
@@ -170,202 +166,291 @@ http://ice.stream.frequence3.net:80/frequence3-128.mp3
 
 #EXTINF:-1,Colombia Pop Rock
 http://listen.radionomy.com/colombiapoprock
-#EXTINF:-1,'
-http://webradio.ofmydick.net
-#EXTINF:-1,'
-http://webradio.ofmydick.net
-#EXTINF:-1,'
-http://webradio.ofmydick.net
-#EXTINF:-1,'
-#EXTINF:-1,..........................................................................
-http://webradio.ofmydick.net
-#EXTINF:-1,                    AceRadio (20 WebRadio Channels)
-http://webradio.ofmydick.net
-#EXTINF:-1,..........................................................................
-http://webradio.ofmydick.net
+
+#EXTINF:-1,
+http://www.doseucu.com
+
+#EXTINF:-1,
+http://www.minhapistola.com
+
+#EXTINF:-1,--------------------------------
+http://www.meupau.com
+#EXTINF:-1,AceRadio (20 Channels)
+http://www.ocudela.com
+#EXTINF:-1,--------------------------------
+http://www.ocudele.com
+
 #EXTINF:-1,AceRadio (The Classic Rock Channel)
 http://bigrradio.cdnstream1.com/5118_128
+
 #EXTINF:-1,AceRadio (The Hard Rock Channel)
 http://bigrradio.cdnstream1.com/5120_128
+
 #EXTINF:-1,AceRadio (The Hair Band Channel)
 http://bigrradio.cdnstream1.com/5119_128
+
 #EXTINF:-1,AceRadio (90s Alternative Rock)
 http://bigrradio.cdnstream1.com/5107_128
+
 #EXTINF:-1,AceRadio (The Super Rock Mix)
 http://bigrradio.cdnstream1.com/5126_128
+
 #EXTINF:-1,AceRadio (The Super 70s Channel)
 http://bigrradio.cdnstream1.com/5125_128
+
 #EXTINF:-1,AceRadio (The Awesome 80s Channel)
 http://bigrradio.cdnstream1.com/5117_128
+
 #EXTINF:-1,AceRadio (The 80s Soft Channel)
 http://bigrradio.cdnstream1.com/5115_128
+
 #EXTINF:-1,AceRadio (90s Pop Channel)
 http://bigrradio.cdnstream1.com/5108_128
+
 #EXTINF:-1,AceRadio (The Soft Hits Channel)
 http://bigrradio.cdnstream1.com/5124_128
+
 #EXTINF:-1,AceRadio (The Alternative Channel)
 http://bigrradio.cdnstream1.com/5116_128
+
 #EXTINF:-1,AceRadio (The Smooth Jazz Channel)
 http://bigrradio.cdnstream1.com/5123_128
+
 #EXTINF:-1,AceRadio (The Vocal Jazz Channel)
 http://bigrradio.cdnstream1.com/5127_128
-#EXTINF:-1,AceRadio (Today's R&B)
+
+#EXTINF:-1,AceRadio (Todays R&B)
 http://bigrradio.cdnstream1.com/5128_128
+
 #EXTINF:-1,AceRadio (RnB Mix Channel)
 http://bigrradio.cdnstream1.com/5114_128
+
 #EXTINF:-1,AceRadio (The Hitz Channel)
 http://bigrradio.cdnstream1.com/5121_128
+
 #EXTINF:-1,AceRadio (The Mix Channel)
 http://bigrradio.cdnstream1.com/5122_128
+
 #EXTINF:-1,AceRadio (CountryMix)
 http://bigrradio.cdnstream1.com/5111_128
+
 #EXTINF:-1,AceRadio (New Country)
 http://bigrradio.cdnstream1.com/5113_128
-#EXTINF:-1,AceRadio (Country Gold)
+
+#EXTINF:0,AceRadio (Country Gold)
 http://bigrradio.cdnstream1.com/5110_128
-#EXTINF:-1, 
-http://webradio.ofmydick.net
-#EXTINF:-1, 
-http://webradio.ofmydick.net
-#EXTINF:-1, 
-http://webradio.ofmydick.net
-#EXTINF:-1,..........................................................................
-http://webradio.ofmydick.net
-#EXTINF:-1,                  Hebrew WebRadios (From Israel)
-http://webradio.ofmydick.net
-#EXTINF:-1,..........................................................................
-http://webradio.ofmydick.net
+
+#EXTINF:-1,
+http://www.ofhervulva.com
+
+#EXTINF:-1,
+http://www.ofyourprick.com
+
+#EXTINF:-1,--------------------------------
+http://www.shelovesmycock.com
+#EXTINF:-1,Hebrew Radios (Israel)
+http://www.helovesherass.com
+#EXTINF:-1,--------------------------------
+http://www.theylovemydick.com
+
 #EXTINF:-1,Jewish Rock Radio (Israeli Rock Music) {128 kbps}
 http://sc11.spacialnet.com:80/stream/2554/
 #EXTINF:-1,Jewish Radio Network (Jewish Music) {128 kbps}
 http://23.92.66.93:8000/stream
 #EXTINF:-1,Radio Mizrahit FM (Israel) {128 kbps}
 http://www.rs.mizrahit.fm:7777/
-#EXTINF:-1,Unknown Jewish Radio {128 kbps}
+#EXTINF:-1,Jewish Radio Network
+http://23.92.66.93:8000/stream
+#EXTINF:-1,Unknown Jewish Radio
 http://sc11.spacialnet.com:80/stream/2554
-#EXTINF:-1,Jewish Music Stream (Israel's Music) {128 kbps}
+#EXTINF:-1,Jewish Music Stream
 http://stream.jewishmusicstream.com:8000/stream
 #EXTINF:-1,Radio Mevaser Tov (Israel) {56 kbps}
 http://770tv.no-ip.org:7777/
-#EXTINF:-1,'
-http://webradio.ofmydick.net
-#EXTINF:-1,'
-http://webradio.ofmydick.net
-#EXTINF:-1,'
-http://webradio.ofmydick.net
-#EXTINF:-1,..........................................................................
-http://webradio.ofmydick.net
-#EXTINF:-1,                  Some More Radios (WebRadio Channels)
-http://webradio.ofmydick.net
-#EXTINF:-1,..........................................................................
-http://webradio.ofmydick.net
+
+#EXTINF:-1,
+http://www.ofmyvulva.com
+
+#EXTINF:-1,
+http://www.shewantsyourprick.com
+
+#EXTINF:-1,--------------------------------
+http://www.shewantsmycock.com
+#EXTINF:-1,Some More Radios
+http://www.helovesmydick.com
+#EXTINF:-1,--------------------------------
+http://www.weloveyourdick.com
+
 #EXTINF:-1,RadioMaxMusic (Greatest Hits) Top 40, Pop Rock 
 http://192.99.83.154:8006/stream
+
 #EXTINF:-1,ROCK RADIO
 http://212.30.80.195:9034/rock
+
 #EXTINF:-1,Smooth Jazz Radio
 http://185.33.21.112:80/smoothjazz_mobile_mp3
+
 #EXTINF:-1,Radio Zeitz - normal ist anders...
 http://media.radio-zeitz.de:80/ice_stream.mp3
+
 #EXTINF:-1,Webradio Oldenburg (Misc)
 http://88.198.175.27:31200
+
 #EXTINF:-1,Music & Talk Radio (Stream)
 http://208.110.65.254:8924/stream
+
 #EXTINF:-1,Easy Rock Paradise
 http://107.170.166.187:8600
+
 #EXTINF:-1,Velvet 96.8 (Orchestra, Blues, Oldies)
 http://s10.voscast.com:9942
+
 #EXTINF:-1,1.FM - Amsterdam Trance Radio
 http://185.33.21.112:80/atr_128
+
 #EXTINF:-1,HITRADIO CENTER - Prvi v Sloveniji za hite
 http://212.30.80.195:8000/center
+
 #EXTINF:-1,RTN TV Radio (Gospel Music)
 http://stream.azimuthradio.com:9000/1
+
 #EXTINF:-1,THE BLAST Christian Rock HiFi @ 64 kbps
 http://theblast-stream.theblast.fm.fast-serv.com:80/64
+
 #EXTINF:-1,THE BLAST Christian Rock HiFi @ 128 kbps
 http://theblast-stream.theblast.fm.fast-serv.com:80/128
+
 #EXTINF:-1,1.FM Sax4Ever (192 kbps) Saxophone music!...
 http://185.33.21.112:80/sax4ever_128
+
 #EXTINF:-1,Radio Oldies Music
 http://5.63.151.52:7064/stream
+
 #EXTINF:-1,Beatles Radio (The Authentic Beatlemania!...) {128 kbps}
 http://64.40.99.76:8000
+
 #EXTINF:-1,Radio Caroline (www.RadioCaroline.co.uk) {Pop, Rock, Oldies}
 http://78.129.202.200:8040
+
 #EXTINF:-1,Mabu Beatz Radio (Minimal)
 http://audio.mabu-beatz-radio.com:8002/minimal
+
 #EXTINF:-1,Online Radio Stream {Vinyl} (Pop, Reggae, Dance, Electronic)
 http://luister.vinylteam.nl:8040/stream
+
 #EXTINF:-1,Vinyl Stacks Radio {128 kbps}
 http://cmvs.uncool.club:2121/vinyl-stacks
+
 #EXTINF:-1,Sound Of Vinyl (80's, House, Disco, R&B and Urban, Freestyle)
 http://queens11369v.softether.net:30016/djspinnercee128
+
 #EXTINF:-1,Radio Globus (Now's Pop Music!) {160 kbps}
 http://185.156.96.20:8000/radioglobus
+
 #EXTINF:-1,Smooth Jazz Florida Worldwide
 http://144.217.158.59:5120/stream
+
 #EXTINF:-1,Best Love (Romantic Songs) {128 kbps}
 http://91.121.155.204:8097/stream
+
 #EXTINF:-1,DEEP HOUSE LOUNGE (www.DeepHouseLounge.com)
 http://198.15.94.34:8024/stream
+
 #EXTINF:-1,HITPARTY (by PulsRadio) Channel 1 {192 kbps}
 http://193.200.43.23:80/hitpartyHD.mp3
+
 #EXTINF:-1,HITPARTY (by PulsRadio) Channel 2 {192 kbps}
 http://212.83.185.113:80/hitpartyHD.mp3
+
 #EXTINF:-1,LOUNGE (by PulsRadio) Channel 1 {192 kbps}
 http://193.200.43.23:80/relaxHD.mp3
+
 #EXTINF:-1,LOUNGE (by PulsRadio) Channel 2 {192 kbps}
 http://212.83.185.113:80/relaxHD.mp3
+
 #EXTINF:-1,TRANCE (by PulsRadio) Channel 1 {192 kbps}
 http://137.74.45.136:80/pulstranceHD.mp3
+
 #EXTINF:-1,TRANCE (by PulsRadio) Channel 2 {192 kbps}
 http://193.200.42.211:80/pulstranceHD.mp3
+
 #EXTINF:-1,TRANCE (by PulsRadio) Channel 3 {192 kbps}
 http://213.251.190.165:80/pulstranceHD.mp3
+
 #EXTINF:-1,Radio Plus (pop, rock, electronic, dance) {96 kbps}
 http://s4.voscast.com:8432
+
 #EXTINF:-1,POWERHITZ.COM - 1POWER - #1 For Hitz & Hip Hop
 http://66.85.88.174:80/1power
+
 #EXTINF:-1,LOUNGE-RADIO.COM (Swiss Made) {128 kbps}
 http://77.235.42.90:80
+
 #EXTINF:-1,Zoo Radio (Hit music only!...) {192 kbps}
 http://s10.voscast.com:9940
+
 #EXTINF:-1,The Best Smooth Jazz (UK, London) {128 kbps}
 http://64.95.243.43:8002/stream
+
 #EXTINF:-1,Ultima FM (Channel 1) {128 kbps}
 http://194.190.130.64:8001
+
 #EXTINF:-1,Ultima FM (Channel 2) {128 kbps}
 http://194.190.130.66:8001
+
 #EXTINF:-1,DANCE (by PulsRadio) Channel 1 {192 kbps}
 http://137.74.45.136:80/pulsHD.mp3
+
 #EXTINF:-1,DANCE (by PulsRadio) Channel 2 {192 kbps}
 http://193.200.42.211:80/pulsHD.mp3
+
 #EXTINF:-1,DANCE (by PulsRadio) Channel 3 {192 kbps}
 http://213.251.190.165:80/pulsHD.mp3
+
 #EXTINF:-1,Antena1 94.7 FM (SP, Brazil) Channel 1 {64 kbps}
 http://5.135.83.159:80/stream2
+
 #EXTINF:-1,Antena1 94.7 FM (SP, Brazil) Channel 2 {64 kbps}
 http://51.254.29.39:80/stream2
+
 #EXTINF:-1,Antena1 94.7 FM (SP, Brazil) Channel 3 {64 kbps}
 http://51.254.29.40:80/stream2
+
 #EXTINF:-1,Antena1 94.7 FM (SP, Brazil) Channel 4 {64 kbps}
 http://51.254.243.74:80/stream2
+
 #EXTINF:-1,ELDORADIO (Top 40) {256 kbps}
 http://81.92.238.33:80
+
 #EXTINF:-1,RTL Radio Letzebuerg (Rock & Pop) {256 kbps}
 http://81.92.238.32:80
+
 #EXTINF:-1,Led Jam Radio {128 kbps}
 http://ledjamradio.ice.infomaniak.ch/ledjamradio.mp3
+
 #EXTINF:-1,KYCN RADIO (AutoDJ Music) {160 kbps}
 http://149.56.175.167:5628/stream
+
 #EXTINF:-1,Cafe Radio (by 1.FM) {192 kbps}
 http://185.33.21.112:80/caferadio_128
+
 #EXTINF:-1,FREQUENCE 3 (Top 40, Dance, Pop, Rock) {128 kbps}
 http://ice.stream.frequence3.net:80/frequence3-128.mp3
+
 #EXTINF:-1,Colombia Pop Rock {128 kbps}
 http://listen.radionomy.com/colombiapoprock
+
 #EXTINF:-1,Classic Hits Radio {128 kbps}
 http://listen.radionomy.com/ClassicHitsRadio
-#EXTINF:-1,Radio Name
-http://webradio.ofmydick.net
+
+#EXTINF:-1,Cross-Fire Radio {128 kbps}
+http://208.110.65.254:8924/stream
+
+#EXTINF:-1,90 Mixx (the best pop, rock, blues, jazz from the 90s)
+http://ais-sa2.wdc01.cdnstream.com:80/1979_128.mp3
+
+#EXTINF:-1,UFMG Educativa FM BH MG Brazil {live}
+http://150.164.63.210:8000/aovivo.mp3
+
+#EXTINF:-1,UFMG Educativa FM BH MG Brazil {playlist}
+http://150.164.63.210:8000/playlist
